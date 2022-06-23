@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "mappings": "AEEA,AAAA,CAAC,CAAC;EACE,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,WAAW,EAAE,wBAAwB;CAAG",
+    "sources": [
+        "../sass/style.sass",
+        "../sass/_mixins.sass",
+        "../sass/_head.sass",
+        "../sass/_main.sass",
+        "../sass/_foot.sass"
+    ],
+    "names": [],
+    "file": "style.css"
+}
